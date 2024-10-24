@@ -1,0 +1,95 @@
+h1#heading1{
+    text-align: center;
+    color: #331519;
+    margin: 30px;
+}
+
+#paragraph1{
+    font-family: "SansSerif", serif;
+    font-size: 20px;
+    margin: 30px;
+}
+
+.one{
+    font-style: italic;
+    font-weight: bolder;
+    font-family: Verdana;
+    margin: 30px;
+}
+
+#heading2{
+    text-align: center;
+    color: #331519;
+}
+
+#mydivision{
+    background-color: olivedrab;
+    margin: 30px;
+    padding: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+#mydivision2{
+    background-color: #393e2f;
+    margin: 30px;
+    padding: 30px;
+    display: flex;
+    color: white;
+}
+
+#mydivision2 p{
+    margin-left: 30px;
+}
+
+#mydivision2 img{
+    border-radius: 300%;
+    width: 300px;
+    height: 300px;
+}
+
+#main{
+    display: flex;
+    margin: 30px;
+}
+
+#advertisement{
+    text-align: center;
+    background-color: dodgerblue;
+    padding: 20px;
+    box-shadow: 8px 4px 8px 4px gray;
+    color: white;
+}
+
+
+#accounting{
+    text-align: center;
+    background-color: greenyellow;
+    margin-left: 20px;
+    padding: 20px;
+    box-shadow: 8px 4px 8px 4px gray;
+    color: white;
+}
+
+#advertisement:hover,#accounting:hover,#payment:hover{
+    background-color: gray;
+}
+
+#payment{
+    text-align: center;
+    background-color: rebeccapurple;
+    margin-left: 20px;
+    padding: 20px;
+    box-shadow: 8px 4px 8px 4px gray;
+    color: white;
+}
+
+h1#heading1:hover{
+    color: black;
+    background-color: lightblue;
+}
+
+#heading2:hover{
+    color: black;
+    background-color: lightblue;
+}
